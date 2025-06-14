@@ -22,7 +22,7 @@
 </p>
 
 <ul>
-  <li><strong>n8n</strong> – automações personalizadas com workflows visuais</li>
+  <li><strong>N8N</strong> – automações personalizadas com workflows visuais</li>
   <li><strong>ManyChat</strong> – criação de chatbots com foco em marketing e atendimento</li>
   <li><strong>Integrações com IA</strong> para melhorar a eficiência de processos</li>
   <li><strong>Análise de dados com Python + IA</strong> para geração de insights e tomada de decisão</li>
