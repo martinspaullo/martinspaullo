@@ -66,6 +66,22 @@
 
 <hr>
 
+<h2>📈 Estatísticas GitHub</h2>
+
+<p>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=martinspaullo&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    alt="GitHub Stats" 
+    height="200"
+  />
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinspaullo&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+    alt="Top Languages" 
+    height="200"
+  />
+</p>
+
 <blockquote>
   ✨ <em>Obrigado por visitar meu repositório! Sinta-se à vontade para explorar os projetos, deixar uma estrela ⭐ ou entrar em contato.</em>
 </blockquote>
