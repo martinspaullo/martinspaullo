@@ -17,6 +17,17 @@
   Busco oportunidades para aplicar meus conhecimentos técnicos em projetos desafiadores e com propósito.
 </p>
 
+<p>
+  Também estou direcionando meus estudos para ferramentas de automação e inteligência artificial, como:
+</p>
+
+<ul>
+  <li><strong>n8n</strong> – automações personalizadas com workflows visuais</li>
+  <li><strong>ManyChat</strong> – criação de chatbots com foco em marketing e atendimento</li>
+  <li><strong>Integrações com IA</strong> para melhorar a eficiência de processos</li>
+  <li><strong>Análise de dados com Python + IA</strong> para geração de insights e tomada de decisão</li>
+</ul>
+
 <hr>
 
 <h2>🧰 Conhecimentos Técnicos</h2>
@@ -43,6 +54,8 @@
   <li>APIs REST</li>
   <li>Scripts para automação</li>
   <li>Projetos colaborativos e versionamento com Git/GitHub</li>
+  <li>Ferramentas de automação como n8n e ManyChat</li>
+  <li>Projetos com uso de IA e análise de dados com Python</li>
 </ul>
 
 <hr>
