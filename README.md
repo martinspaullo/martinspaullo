@@ -1,45 +1,60 @@
-# 👨‍💻 Paulo Martins Coelho
+<h1>👨‍💻 Paulo Martins Coelho</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Desenvolvedor-Python-informational?style=flat&logo=python&color=3776AB" alt="Badge Python">
   <img src="https://img.shields.io/badge/Framework-Django-092E20?style=flat&logo=django&logoColor=white" alt="Badge Django">
 </p>
 
-## 🧠 Sobre mim
+<h2>🧠 Sobre mim</h2>
 
-Olá! Meu nome é **Paulo Martins Coelho**, sou formado em **Tecnologia da Informação** pela **UNIVESP** – Universidade Virtual do Estado de São Paulo.
+<p>
+  Olá! Meu nome é <strong>Paulo Martins Coelho</strong>, sou formado em <strong>Tecnologia da Informação</strong> pela 
+  <strong>UNIVESP</strong> – Universidade Virtual do Estado de São Paulo.
+</p>
 
-Estou atualmente em **transição de carreira**, com foco em desenvolvimento backend e automações usando Python. Busco oportunidades para aplicar meus conhecimentos técnicos em projetos desafiadores e com propósito.
+<p>
+  Estou atualmente em <strong>transição de carreira</strong>, com foco em desenvolvimento backend e automações usando Python.
+  Busco oportunidades para aplicar meus conhecimentos técnicos em projetos desafiadores e com propósito.
+</p>
 
----
+<hr>
 
-## 🧰 Conhecimentos Técnicos
+<h2>🧰 Conhecimentos Técnicos</h2>
 
-- 🐍 **Python** com foco em **Programação Orientada a Objetos (POO)**
-- ⚙️ **Automação de tarefas e processos** com Python
-- 🌐 **Desenvolvimento Web com Django**
-- 🧪 Testes e boas práticas de desenvolvimento
-- 💡 Curioso, resiliente e sempre aprendendo algo novo
+<ul>
+  <li>🐍 <strong>Python</strong> com foco em <strong>Programação Orientada a Objetos (POO)</strong></li>
+  <li>⚙️ <strong>Automação de tarefas e processos</strong> com Python</li>
+  <li>🌐 <strong>Desenvolvimento Web com Django</strong></li>
+  <li>🧪 Testes e boas práticas de desenvolvimento</li>
+  <li>💡 Curioso, resiliente e sempre aprendendo algo novo</li>
+</ul>
 
----
+<hr>
 
-## 🚀 Objetivo
+<h2>🚀 Objetivo</h2>
 
-Consolidar minha carreira na área de tecnologia, utilizando a programação como ferramenta de transformação, eficiência e impacto positivo. Estou constantemente estudando, praticando e participando de projetos que envolvam:
+<p>
+  Consolidar minha carreira na área de tecnologia, utilizando a programação como ferramenta de transformação, eficiência e 
+  impacto positivo. Estou constantemente estudando, praticando e participando de projetos que envolvam:
+</p>
 
-- Backend com Python e Django
-- APIs REST
-- Scripts para automação
-- Projetos colaborativos e versionamento com Git/GitHub
+<ul>
+  <li>Backend com Python e Django</li>
+  <li>APIs REST</li>
+  <li>Scripts para automação</li>
+  <li>Projetos colaborativos e versionamento com Git/GitHub</li>
+</ul>
 
----
+<hr>
 
-## 🌐 Contato
+<h2>🌐 Contato</h2>
 
-📧 E-mail: _[seuemail@email.com]_  
-🔗 [LinkedIn](https://www.linkedin.com/in/seuperfil)  
-📂 [Portfólio (opcional)](https://seusite.github.io)
+<p>📧 E-mail: <em>seuemail@email.com</em></p>
+<p>🔗 <a href="https://www.linkedin.com/in/seuperfil" target="_blank">LinkedIn</a></p>
+<p>📂 <a href="https://seusite.github.io" target="_blank">Portfólio (opcional)</a></p>
 
----
+<hr>
 
-> ✨ _Obrigado por visitar meu repositório! Sinta-se à vontade para explorar os projetos, deixar uma estrela ⭐ ou entrar em contato._
+<blockquote>
+  ✨ <em>Obrigado por visitar meu repositório! Sinta-se à vontade para explorar os projetos, deixar uma estrela ⭐ ou entrar em contato.</em>
+</blockquote>
