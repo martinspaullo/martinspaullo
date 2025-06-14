@@ -60,14 +60,6 @@
 
 <hr>
 
-<h2>🌐 Contato</h2>
-
-<p>📧 E-mail: <em>seuemail@email.com</em></p>
-<p>🔗 <a href="https://www.linkedin.com/in/seuperfil" target="_blank">LinkedIn</a></p>
-<p>📂 <a href="https://seusite.github.io" target="_blank">Portfólio (opcional)</a></p>
-
-<hr>
-
 <blockquote>
   ✨ <em>Obrigado por visitar meu repositório! Sinta-se à vontade para explorar os projetos, deixar uma estrela ⭐ ou entrar em contato.</em>
 </blockquote>
