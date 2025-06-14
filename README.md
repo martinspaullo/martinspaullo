@@ -1,7 +1,7 @@
 <h1>👨‍💻 Paulo Martins Coelho</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Desenvolvedor-Python-informational?style=flat&logo=python&color=3776AB" alt="Badge Python">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="JavaScript" width="50" style="padding-right:10px;"/>
   <img src="https://img.shields.io/badge/Framework-Django-092E20?style=flat&logo=django&logoColor=white" alt="Badge Django">
 </p>
 
