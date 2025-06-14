@@ -1,8 +1,14 @@
 <h1>👨‍💻 Paulo Martins Coelho</h1>
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="JavaScript" width="50" style="padding-right:10px;"/>
-  <img src="https://img.shields.io/badge/Framework-Django-092E20?style=flat&logo=django&logoColor=white" alt="Badge Django">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python" width="50" style="padding-right:10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" title="Django" width="50" style="padding-right:10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" title="Selenium" width="50" style="padding-right:10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" title="Flask" width="50" style="padding-right:10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" width="50" style="padding-right:10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" title="Postgres" width="50" style="padding-right:10px;"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" title="Postman" width="50" style="padding-right:10px;"/>
+  
 </p>
 
 <h2>🧠 Sobre mim</h2>
